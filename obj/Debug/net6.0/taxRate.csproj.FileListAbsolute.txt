@@ -1,0 +1,15 @@
+C:\Users\rfxba\source\repos\taxRate\taxRate\bin\Debug\net6.0\taxRate.exe
+C:\Users\rfxba\source\repos\taxRate\taxRate\bin\Debug\net6.0\taxRate.deps.json
+C:\Users\rfxba\source\repos\taxRate\taxRate\bin\Debug\net6.0\taxRate.runtimeconfig.json
+C:\Users\rfxba\source\repos\taxRate\taxRate\bin\Debug\net6.0\taxRate.dll
+C:\Users\rfxba\source\repos\taxRate\taxRate\bin\Debug\net6.0\taxRate.pdb
+C:\Users\rfxba\source\repos\taxRate\taxRate\obj\Debug\net6.0\taxRate.csproj.AssemblyReference.cache
+C:\Users\rfxba\source\repos\taxRate\taxRate\obj\Debug\net6.0\taxRate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rfxba\source\repos\taxRate\taxRate\obj\Debug\net6.0\taxRate.AssemblyInfoInputs.cache
+C:\Users\rfxba\source\repos\taxRate\taxRate\obj\Debug\net6.0\taxRate.AssemblyInfo.cs
+C:\Users\rfxba\source\repos\taxRate\taxRate\obj\Debug\net6.0\taxRate.csproj.CoreCompileInputs.cache
+C:\Users\rfxba\source\repos\taxRate\taxRate\obj\Debug\net6.0\taxRate.dll
+C:\Users\rfxba\source\repos\taxRate\taxRate\obj\Debug\net6.0\refint\taxRate.dll
+C:\Users\rfxba\source\repos\taxRate\taxRate\obj\Debug\net6.0\taxRate.pdb
+C:\Users\rfxba\source\repos\taxRate\taxRate\obj\Debug\net6.0\taxRate.genruntimeconfig.cache
+C:\Users\rfxba\source\repos\taxRate\taxRate\obj\Debug\net6.0\ref\taxRate.dll
